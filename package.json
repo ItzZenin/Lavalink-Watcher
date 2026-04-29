@@ -1,0 +1,17 @@
+{
+  "name": "lavalink-monitor-bot",
+  "version": "1.0.0",
+  "author": "zenin191",
+  "description": "A simple bot to monitor a Lavalink node.",
+  "main": "index.js",
+  "license": "ISC",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "16.4.5",
+    "shoukaku": "4.1.1"
+  }
+}
